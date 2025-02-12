@@ -1,6 +1,6 @@
 ## Git Commit Message Keywords
 
-When contributing to this project, please use the following keywords in your commit messages to clearly indicate the type of change being made:
+When contributing to any project, use the following keywords in your commit messages to clearly indicate the type of change being made:
 
 *   **`feat`:** Introduces a new feature.  Example: `feat: Add user authentication`
 *   **`fix`:**  Addresses a bug or issue. Example: `fix: Resolve issue with broken link on homepage`
@@ -17,8 +17,6 @@ When contributing to this project, please use the following keywords in your com
 *   **`chore`:** General maintenance tasks, dependency upgrades, etc. Example: `chore: Update dependencies to latest versions`
 *   **`test`:** Changes related to adding or correcting tests. Example: `test: Add integration tests for payment processing`
 
-
-
 **Linking to Issues/Work Items:**
 
-If your commit relates to a specific issue or work item in our tracking system, please include the issue ID in the commit message (e.g., `fix: Resolve issue #123 - User profile update error`).
+If your commit relates to a specific issue or work item in the tracking system, include the issue ID in the commit message (e.g., `fix: Resolve issue #123 - User profile update error`).
